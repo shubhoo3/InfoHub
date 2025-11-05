@@ -60,3 +60,14 @@ Frontend will open on `http://localhost:5173`. The Vite dev server proxies `/api
 
 - CORS is enabled on the server. The frontend uses a Vite proxy to `/api` in dev.
 - Weather API will return `501` if the `WEATHER_API_KEY` is not configured.
+
+##Screenshots
+
+--WEATHER
+<img width="1869" height="946" alt="image" src="https://github.com/user-attachments/assets/bc497ad5-0c67-4024-8a15-519c1d639143" />
+
+--CURRENCY CONVERTER
+<img width="1881" height="971" alt="image" src="https://github.com/user-attachments/assets/a7eb8731-0f28-4c7b-b9d1-4ab7ace4a167" />
+
+--QUOTES
+<img width="1831" height="917" alt="image" src="https://github.com/user-attachments/assets/02be86f2-7bf5-4149-b2da-6162f95faa10" />
