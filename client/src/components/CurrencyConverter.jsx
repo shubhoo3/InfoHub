@@ -1,6 +1,6 @@
 import { useState } from 'react'
 
-const API_BASE = import.meta.env.VITE_API_BASE || ''
+const API_BASE = import.meta.env.VITE_API_BASE || 'https://infohub-r0o4.onrender.com'
 
 export default function CurrencyConverter() {
   const [amount, setAmount] = useState(100)
