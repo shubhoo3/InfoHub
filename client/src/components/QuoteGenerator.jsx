@@ -1,6 +1,6 @@
 import { useState } from 'react'
 
-const API_BASE = import.meta.env.VITE_API_BASE || 'https://infohub-r0o4.onrender.com'
+const API_BASE = import.meta.env.VITE_API_BASE || ''
 
 export default function QuoteGenerator() {
   const [loading, setLoading] = useState(false)
